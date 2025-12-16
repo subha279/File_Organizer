@@ -6,6 +6,8 @@ from .undo import add_undo
 
 FILE_TYPES = {
     "PDFs": [".pdf"],
+    "Music": [".mp3"],
+    "Video": [".mp4", ".mkv"],
     "Images": [".jpg", ".jpeg", ".png", ".webp"],
 }
 
