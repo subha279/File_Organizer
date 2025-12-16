@@ -12,7 +12,7 @@ A simple, fast, and safe desktop application to organize files
 - ↩ Undo / Restore support
 - 🌙 Dark & Light mode
 - 🔄 One-click update system
-- 🖥 Works on **Linux & Windows**
+- 🖥 Works on **Linux & Windows(Painding)**
 - 🚫 No Python required for users
 
 ---
